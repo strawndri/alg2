@@ -11,10 +11,10 @@
 
 ## Sobre o repositório
 
-Este repositório contém estudos práticos envolvendo a disciplina de Algoritmos e Estrutura de Dados II, vista a partir do curso de Ciência da Computação da Universidade Federal do Paraná. 
+Este repositório contém estudos práticos envolvendo a disciplina de Algoritmos e Estrutura de Dados II, vista a partir do curso de Ciência da Computação da Universidade Federal do Paraná. O propósito da disciplina foi explorar os conceitos de recursão, algoritmos de busca e ordenação, estrutura de dados Heap e técnicas de backtracking.
 
 ## Tecnologias utilizadas
-- [C](https://devdocs.io/c/): linguagem de programação compilada e procedural;
+- [C](https://devdocs.io/c/): linguagem de programação compilada e procedural (não foi o foco da disciplina);
 
 ## Licença
 
